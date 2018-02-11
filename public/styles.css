@@ -1,0 +1,27 @@
+* {
+    font-family: "roboto", sans-serif;
+    font-weight: bold;
+}
+body{
+  background-color: #f0f0f5;
+}
+.container.menu{
+  margin: auto;
+  text-align: center;
+}
+li{
+  list-style-type: none;
+}
+button{
+  margin-top: 1em;
+  width: 5em;
+  font-size: 20px;
+  background-color: #e6eeff;
+}
+input.addbtn{
+  height: 2em;
+  width: 15em;
+}
+hr{
+  width: 50em;
+}
